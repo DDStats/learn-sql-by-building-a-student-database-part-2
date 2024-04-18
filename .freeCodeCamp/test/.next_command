@@ -50,3 +50,4 @@ psql -U postgres < students.sql
 /l
 \l
 \l
+touch student_info.sh
